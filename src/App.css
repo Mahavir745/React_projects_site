@@ -1,0 +1,6 @@
+.overflowContainer{
+  overflow-y:scroll ;
+}
+.overflowContainer::-webkit-scrollbar{
+  display: none;
+}
