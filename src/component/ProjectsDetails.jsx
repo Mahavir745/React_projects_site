@@ -9,63 +9,63 @@ export let ProjectsData = [
   {
     title: "Comming Soon",
     details: "Comming Soon",
-    project_img:"src/assets/assest_01.jpg",
+    project_img:"./src/assets/assest_01.jpg",
     live_link: "url",
     source_link: "url"
   },
   {
     title: "Comming Soon",
     details: "Comming Soon",
-    project_img: "src/assets/assest_01.jpg",
+    project_img: "./src/assets/assest_01.jpg",
     live_link: "url",
     source_link: "url"
   },
   {
     title: "Comming Soon",
     details: "Comming Soon",
-    project_img: "src/assets/assest_01.jpg",
+    project_img: "./src/assets/assest_01.jpg",
     live_link: "url",
     source_link: "url"
   },
   {
     title: "Comming Soon",
     details: "Comming Soon",
-    project_img: "src/assets/assest_01.jpg",
+    project_img: "./src/assets/assest_01.jpg",
     live_link: "url",
     source_link: "url"
   },
   {
     title: "Comming Soon",
     details: "Comming Soon",
-    project_img: "src/assets/assest_01.jpg",
+    project_img: "./src/assets/assest_01.jpg",
     live_link: "url",
     source_link: "url"
   },
   {
     title: "Comming Soon",
     details: "Comming Soon",
-    project_img:"src/assets/assest_01.jpg",
+    project_img:"./src/assets/assest_01.jpg",
     live_link: "url",
     source_link: "url"
   },
   {
     title: "Comming Soon",
     details: "Comming Soon",
-    project_img: "src/assets/assest_01.jpg",
+    project_img: "./src/assets/assest_01.jpg",
     live_link: "url",
     source_link: "url"
   },
   {
     title: "Comming Soon",
     details: "Comming Soon",
-    project_img: "src/assets/assest_01.jpg",
+    project_img: "./src/assets/assest_01.jpg",
     live_link: "url",
     source_link: "url"
   },
   {
     title: "Comming Soon",
     details: "Comming Soon",
-    project_img: "src/assets/assest_01.jpg",
+    project_img: "./src/assets/assest_01.jpg",
     live_link: "url",
     source_link: "url"
   },
