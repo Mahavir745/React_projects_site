@@ -1,12 +1,14 @@
-import React from 'react'
+import React, { useContext } from 'react'
 import Project from './Project'
-import { ProjectsData } from './ProjectsDetails'
+import { dataProviderContainer } from '../store/all_data_store'
 
 
 const Container = () => {
+  const {projectDetails} = useContext(dataProviderContainer)
+
   return (
     <div className='h-[auto] flex gap-3 justify-center m-4 flex-wrap' >
-     {ProjectsData.map((project)=> <Project project={project} key={project.id}/> )}
+     {projectDetails.map((project)=> <Project project={project} key={project.id}/> )}
     </div>
   )
 }

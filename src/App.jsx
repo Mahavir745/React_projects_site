@@ -3,6 +3,7 @@ import Header from './component/Header'
 import Footer from './component/Footer'
 import Container from './component/Container'
 import "./App.css"
+import DataStoreProvider from './store/all_data_store'
 
 const App = () => {
   const [darkmode, setDarkmode] = useState(false)
@@ -19,11 +20,13 @@ const App = () => {
   const howManyProjects = 10
 
   return (
+    <DataStoreProvider>
     <div className={`${darkmode && "bg-black"}`}>
       <Header onButtonClick={darkMode} darkmode = {darkmode} projectsLimts={howManyProjects}/>
       <Container />
       <Footer />
     </div>
+    </DataStoreProvider>
   )
 }
 
