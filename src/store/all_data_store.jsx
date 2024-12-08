@@ -18,7 +18,7 @@ const DEFAULT_DATA = [
   {
     title: "Comming Soon",
     details: "Comming Soon",
-    project_img:"./src/assets/assest_01.jpg",
+    project_img:"https://drive.google.com/file/d/1PIPFQd-28Gttuz5HJjzfYLMoHelY1yYS/view?usp=sharing",
     live_link: "url",
     source_link: "url",
     id: 101
@@ -26,7 +26,7 @@ const DEFAULT_DATA = [
   {
     title: "Comming Soon",
     details: "Comming Soon",
-    project_img: "./src/assets/assest_01.jpg",
+    project_img: "https://drive.google.com/file/d/1PIPFQd-28Gttuz5HJjzfYLMoHelY1yYS/view?usp=sharing",
     live_link: "url",
     source_link: "url",
     id: 102
@@ -34,7 +34,7 @@ const DEFAULT_DATA = [
   {
     title: "Comming Soon",
     details: "Comming Soon",
-    project_img: "./src/assets/assest_01.jpg",
+    project_img: "https://drive.google.com/file/d/1PIPFQd-28Gttuz5HJjzfYLMoHelY1yYS/view?usp=sharing",
     live_link: "url",
     source_link: "url",
     id: 103
@@ -42,7 +42,7 @@ const DEFAULT_DATA = [
   {
     title: "Comming Soon",
     details: "Comming Soon",
-    project_img: "./src/assets/assest_01.jpg",
+    project_img: "https://drive.google.com/file/d/1PIPFQd-28Gttuz5HJjzfYLMoHelY1yYS/view?usp=sharing",
     live_link: "url",
     source_link: "url",
     id: 104
@@ -50,7 +50,7 @@ const DEFAULT_DATA = [
   {
     title: "Comming Soon",
     details: "Comming Soon",
-    project_img: "./src/assets/assest_01.jpg",
+    project_img: "https://drive.google.com/file/d/1PIPFQd-28Gttuz5HJjzfYLMoHelY1yYS/view?usp=sharing",
     live_link: "url",
     source_link: "url",
     id: 105,
@@ -58,7 +58,7 @@ const DEFAULT_DATA = [
   {
     title: "Comming Soon",
     details: "Comming Soon",
-    project_img:"./src/assets/assest_01.jpg",
+    project_img:"https://drive.google.com/file/d/1PIPFQd-28Gttuz5HJjzfYLMoHelY1yYS/view?usp=sharing",
     live_link: "url",
     source_link: "url",
     id: 106
@@ -66,7 +66,7 @@ const DEFAULT_DATA = [
   {
     title: "Comming Soon",
     details: "Comming Soon",
-    project_img: "./src/assets/assest_01.jpg",
+    project_img: "https://drive.google.com/file/d/1PIPFQd-28Gttuz5HJjzfYLMoHelY1yYS/view?usp=sharing",
     live_link: "url",
     source_link: "url",
     id: 107
@@ -74,7 +74,7 @@ const DEFAULT_DATA = [
   {
     title: "Comming Soon",
     details: "Comming Soon",
-    project_img: "./src/assets/assest_01.jpg",
+    project_img: "https://drive.google.com/file/d/1PIPFQd-28Gttuz5HJjzfYLMoHelY1yYS/view?usp=sharing",
     live_link: "url",
     source_link: "url",
     id: 108
@@ -82,7 +82,7 @@ const DEFAULT_DATA = [
   {
     title: "Comming Soon",
     details: "Comming Soon",
-    project_img: "./src/assets/assest_01.jpg",
+    project_img: "https://drive.google.com/file/d/1PIPFQd-28Gttuz5HJjzfYLMoHelY1yYS/view?usp=sharing",
     live_link: "url",
     source_link: "url",
     id: 109
