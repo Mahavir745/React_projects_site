@@ -10,7 +10,7 @@ const DEFAULT_DATA = [
   {
     title: "Todo List",
     details: "I built a to-do list app using React. It lets users add and delete tasks easily. The app is simple to use and helps me practice React basics, like managing state and creating components. It’s a great project to learn how to make interactive web apps.",
-    project_img: "./src/assets/assest_02.png",
+    project_img: "https://drive.google.com/file/d/1HvOmH0gR6FBWnCZyGQ_MURqtLALpU7Rv/preview",
     live_link: "https://todolist-phi-snowy.vercel.app/ ",
     source_link: "https://github.com/Mahavir745/todolist",
     id: 100,
@@ -18,7 +18,7 @@ const DEFAULT_DATA = [
   {
     title: "Comming Soon",
     details: "Comming Soon",
-    project_img:"https://static.vecteezy.com/system/resources/previews/002/107/425/non_2x/coming-soon-label-tag-logo-template-design-illustration-vector.jpg",
+    project_img:"https://drive.google.com/file/d/1PIPFQd-28Gttuz5HJjzfYLMoHelY1yYS/preview",
     live_link: "url",
     source_link: "url",
     id: 101
@@ -26,7 +26,7 @@ const DEFAULT_DATA = [
   {
     title: "Comming Soon",
     details: "Comming Soon",
-    project_img: "https://static.vecteezy.com/system/resources/previews/002/107/425/non_2x/coming-soon-label-tag-logo-template-design-illustration-vector.jpg",
+    project_img: "https://drive.google.com/file/d/1PIPFQd-28Gttuz5HJjzfYLMoHelY1yYS/preview",
     live_link: "url",
     source_link: "url",
     id: 102
@@ -34,7 +34,7 @@ const DEFAULT_DATA = [
   {
     title: "Comming Soon",
     details: "Comming Soon",
-    project_img: "https://static.vecteezy.com/system/resources/previews/002/107/425/non_2x/coming-soon-label-tag-logo-template-design-illustration-vector.jpg",
+    project_img: "https://drive.google.com/file/d/1PIPFQd-28Gttuz5HJjzfYLMoHelY1yYS/preview",
     live_link: "url",
     source_link: "url",
     id: 103
@@ -42,7 +42,7 @@ const DEFAULT_DATA = [
   {
     title: "Comming Soon",
     details: "Comming Soon",
-    project_img: "https://static.vecteezy.com/system/resources/previews/002/107/425/non_2x/coming-soon-label-tag-logo-template-design-illustration-vector.jpg",
+    project_img: "https://drive.google.com/file/d/1PIPFQd-28Gttuz5HJjzfYLMoHelY1yYS/preview",
     live_link: "url",
     source_link: "url",
     id: 104
@@ -50,7 +50,7 @@ const DEFAULT_DATA = [
   {
     title: "Comming Soon",
     details: "Comming Soon",
-    project_img: "https://static.vecteezy.com/system/resources/previews/002/107/425/non_2x/coming-soon-label-tag-logo-template-design-illustration-vector.jpg",
+    project_img: "https://drive.google.com/file/d/1PIPFQd-28Gttuz5HJjzfYLMoHelY1yYS/preview",
     live_link: "url",
     source_link: "url",
     id: 105,
@@ -58,7 +58,7 @@ const DEFAULT_DATA = [
   {
     title: "Comming Soon",
     details: "Comming Soon",
-    project_img:"https://static.vecteezy.com/system/resources/previews/002/107/425/non_2x/coming-soon-label-tag-logo-template-design-illustration-vector.jpg",
+    project_img:"https://drive.google.com/file/d/1PIPFQd-28Gttuz5HJjzfYLMoHelY1yYS/preview",
     live_link: "url",
     source_link: "url",
     id: 106
@@ -66,7 +66,7 @@ const DEFAULT_DATA = [
   {
     title: "Comming Soon",
     details: "Comming Soon",
-    project_img: "https://static.vecteezy.com/system/resources/previews/002/107/425/non_2x/coming-soon-label-tag-logo-template-design-illustration-vector.jpg",
+    project_img: "https://drive.google.com/file/d/1PIPFQd-28Gttuz5HJjzfYLMoHelY1yYS/preview",
     live_link: "url",
     source_link: "url",
     id: 107
@@ -74,7 +74,7 @@ const DEFAULT_DATA = [
   {
     title: "Comming Soon",
     details: "Comming Soon",
-    project_img: "https://static.vecteezy.com/system/resources/previews/002/107/425/non_2x/coming-soon-label-tag-logo-template-design-illustration-vector.jpg",
+    project_img: "https://drive.google.com/file/d/1PIPFQd-28Gttuz5HJjzfYLMoHelY1yYS/preview",
     live_link: "url",
     source_link: "url",
     id: 108
@@ -82,7 +82,7 @@ const DEFAULT_DATA = [
   {
     title: "Comming Soon",
     details: "Comming Soon",
-    project_img: "https://static.vecteezy.com/system/resources/previews/002/107/425/non_2x/coming-soon-label-tag-logo-template-design-illustration-vector.jpg",
+    project_img: "https://drive.google.com/file/d/1PIPFQd-28Gttuz5HJjzfYLMoHelY1yYS/preview",
     live_link: "url",
     source_link: "url",
     id: 109
