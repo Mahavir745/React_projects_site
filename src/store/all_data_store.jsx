@@ -16,11 +16,11 @@ const DEFAULT_DATA = [
     id: 100,
   },
   {
-    title: "Comming Soon",
-    details: "Comming Soon",
-    project_img:"https://drive.google.com/file/d/1PIPFQd-28Gttuz5HJjzfYLMoHelY1yYS/preview",
-    live_link: "url",
-    source_link: "url",
+    title: "Profile Page",
+    details: "login and signup system with user-friendly validation. It allows new users to register and existing users to log in securely. Upon successful login, users are redirected to their unique profile page. The project demonstrates authentication, form validation, and routing in React.",
+    project_img:"https://drive.google.com/file/d/1E_AmgfTvN4zNmkvqP421DClEZT88QaDr/preview",
+    live_link: "https://user-profile-three-sigma.vercel.app/",
+    source_link: "https://github.com/Mahavir745/userProfile",
     id: 101
   },
   {

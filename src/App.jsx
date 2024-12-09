@@ -23,7 +23,7 @@ const App = () => {
     <DataStoreProvider>
     <div className={`${darkmode && "bg-black"}`}>
       <Header onButtonClick={darkMode} darkmode = {darkmode} projectsLimts={howManyProjects}/>
-      <Container />
+      <Container darkMode={darkmode}/>
       <Footer />
     </div>
     </DataStoreProvider>
