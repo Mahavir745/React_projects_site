@@ -24,11 +24,11 @@ const DEFAULT_DATA = [
     id: 101
   },
   {
-    title: "Comming Soon",
-    details: "Comming Soon",
-    project_img: "https://drive.google.com/file/d/1PIPFQd-28Gttuz5HJjzfYLMoHelY1yYS/preview",
-    live_link: "url",
-    source_link: "url",
+    title: "Post Generator",
+    details: "I created a post generator using React JS and Bootstrap, where users can easily add posts by filling out a form. The app also loads some default posts from an API, so users can see existing posts when they visit the site.",
+    project_img: "https://drive.google.com/file/d/1w30-0ZJA30t4DTD4i1lK67vfJ8yJJ0Rq/preview",
+    live_link: "https://post-generator-rho.vercel.app/",
+    source_link: "https://github.com/Mahavir745/post-generator",
     id: 102
   },
   {
