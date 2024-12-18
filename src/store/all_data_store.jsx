@@ -4,6 +4,7 @@ import comming_soon from "../assets/assest_01.jpg";
 import todo_list from "../assets/assest_02.png";
 import profile_page from "../assets/assest_03.png";
 import post_generator from "../assets/assest_04.png"
+import expense_Tracker from "../assets/assest_05.png"
 
 
 export const dataProviderContainer = createContext({
@@ -37,11 +38,11 @@ const DEFAULT_DATA = [
     id: 102
   },
   {
-    title: "Comming Soon",
-    details: "Comming Soon",
-    project_img: comming_soon,
-    live_link: "url",
-    source_link: "url",
+    title: "Expense Tacker",
+    details: "I built an expense tracker app with React.js, featuring an attractive login/signup process and a user-friendly dashboard. Users can add money, track their expenses, and easily manage their finances through a simple input section.",
+    project_img: expense_Tracker,
+    live_link: "https://expense-tracker-ten-sable.vercel.app/",
+    source_link: "https://github.com/Mahavir745/Expense_tracker",
     id: 103
   },
   {
