@@ -20,6 +20,7 @@ const DEFAULT_DATA = [
     live_link: "https://todolist-phi-snowy.vercel.app/ ",
     source_link: "https://github.com/Mahavir745/todolist",
     id: 100,
+    section:"BasicSection",
   },
   {
     title: "Profile Page",
@@ -27,7 +28,8 @@ const DEFAULT_DATA = [
     project_img: profile_page,
     live_link: "https://user-profile-three-sigma.vercel.app/",
     source_link: "https://github.com/Mahavir745/userProfile",
-    id: 101
+    id: 101,
+    section:"BasicSection",
   },
   {
     title: "Post Generator",
@@ -35,7 +37,8 @@ const DEFAULT_DATA = [
     project_img: post_generator,
     live_link: "https://post-generator-rho.vercel.app/",
     source_link: "https://github.com/Mahavir745/post-generator",
-    id: 102
+    id: 102,
+    section:"BasicSection",
   },
   {
     title: "Expense Tacker",
@@ -43,7 +46,8 @@ const DEFAULT_DATA = [
     project_img: expense_Tracker,
     live_link: "https://expense-tracker-ten-sable.vercel.app/",
     source_link: "https://github.com/Mahavir745/Expense_tracker",
-    id: 103
+    id: 103,
+    section:"BasicSection",
   },
   {
     title: "Comming Soon",
@@ -51,7 +55,8 @@ const DEFAULT_DATA = [
     project_img: comming_soon,
     live_link: "url",
     source_link: "url",
-    id: 104
+    id: 104,
+    section: 'ApiSection',
   },
   {
     title: "Comming Soon",
@@ -60,6 +65,7 @@ const DEFAULT_DATA = [
     live_link: "url",
     source_link: "url",
     id: 105,
+    section: 'ApiSection',
   },
   {
     title: "Comming Soon",
@@ -67,7 +73,8 @@ const DEFAULT_DATA = [
     project_img:comming_soon,
     live_link: "url",
     source_link: "url",
-    id: 106
+    id: 106,
+    section: 'ApiSection',
   },
   {
     title: "Comming Soon",
@@ -75,7 +82,8 @@ const DEFAULT_DATA = [
     project_img: comming_soon,
     live_link: "url",
     source_link: "url",
-    id: 107
+    id: 107,
+    section: 'ApiSection',
   },
   {
     title: "Comming Soon",
@@ -83,7 +91,8 @@ const DEFAULT_DATA = [
     project_img: comming_soon,
     live_link: "url",
     source_link: "url",
-    id: 108
+    id: 108,
+    section:"BonusSection"
   },
   {
     title: "Comming Soon",
@@ -91,7 +100,8 @@ const DEFAULT_DATA = [
     project_img: comming_soon,
     live_link: "url",
     source_link: "url",
-    id: 109
+    id: 109,
+    section:"BonusSection"
   },
 ]
 

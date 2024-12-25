@@ -21,7 +21,7 @@ const App = () => {
 
   return (
     <DataStoreProvider>
-    <div className={`${darkmode && "bg-black"}`}>
+    <div className={`${darkmode && "bg-gray-800"}`}>
       <Header onButtonClick={darkMode} darkmode = {darkmode} projectsLimts={howManyProjects}/>
       <Container darkMode={darkmode}/>
       <Footer />

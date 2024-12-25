@@ -8,3 +8,15 @@
   border: 2px solid rebeccapurple;
 
 }
+
+.textshadow{
+  text-shadow: 2px 2px 6px black;
+  letter-spacing: 1px;
+}
+
+.fontfamily{
+  font-family: "Dancing Script", serif;
+}
+.fontfamily2{
+  font-family: "Caveat", serif;
+}
