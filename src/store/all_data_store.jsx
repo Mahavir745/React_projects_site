@@ -5,6 +5,7 @@ import todo_list from "../assets/assest_02.png";
 import profile_page from "../assets/assest_03.png";
 import post_generator from "../assets/assest_04.png"
 import expense_Tracker from "../assets/assest_05.png"
+import task_manager from "../assets/assest_06.png"
 
 
 export const dataProviderContainer = createContext({
@@ -50,11 +51,11 @@ const DEFAULT_DATA = [
     section:"BasicSection",
   },
   {
-    title: "Comming Soon",
-    details: "Comming Soon",
-    project_img: comming_soon,
-    live_link: "url",
-    source_link: "url",
+    title: "Task Manager",
+    details: "I created a React.js task manager with features like adding, editing, deleting, and completing tasks, filtering by priority and status, progress tracking, and pagination for efficient task management.",
+    project_img: task_manager,
+    live_link: "https://task-manager-swart-six.vercel.app/",
+    source_link: "https://github.com/Mahavir745/task-manager",
     id: 104,
     section: 'ApiSection',
   },
