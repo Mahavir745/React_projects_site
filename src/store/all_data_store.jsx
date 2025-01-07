@@ -6,6 +6,8 @@ import profile_page from "../assets/assest_03.png";
 import post_generator from "../assets/assest_04.png"
 import expense_Tracker from "../assets/assest_05.png"
 import task_manager from "../assets/assest_06.png"
+import gift_card from "../assets/assest_07.png"
+
 
 
 export const dataProviderContainer = createContext({
@@ -60,11 +62,11 @@ const DEFAULT_DATA = [
     section: 'ApiSection',
   },
   {
-    title: "Comming Soon",
-    details: "Comming Soon",
-    project_img: comming_soon,
-    live_link: "url",
-    source_link: "url",
+    title: "Surprise Gift",
+    details: "The Surprise Gift Card project in React.js lets users create and download personalized cards with images, quotes, and recipient names. It offers an intuitive interface and attractive design for a seamless and memorable user experience.",
+    project_img: gift_card,
+    live_link: "https://gift-card-flame-seven.vercel.app/",
+    source_link: "https://github.com/Mahavir745/gift-card",
     id: 105,
     section: 'ApiSection',
   },
