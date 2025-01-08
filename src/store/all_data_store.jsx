@@ -1,6 +1,6 @@
 import { createContext, useReducer } from "react";
 
-import comming_soon from "../assets/assest_01.jpg";
+import comming_soon from "../assets/comming_soon.jpg";
 import todo_list from "../assets/assest_02.png";
 import profile_page from "../assets/assest_03.png";
 import post_generator from "../assets/assest_04.png"
